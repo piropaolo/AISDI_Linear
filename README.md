@@ -1,4 +1,4 @@
-# AISDI_Linear
+# aisdi-linear
 
 Repository for first AISDI project: Linear data structures
 
